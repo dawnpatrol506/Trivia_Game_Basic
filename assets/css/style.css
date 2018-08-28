@@ -22,3 +22,7 @@ input{
 body{
     margin-bottom: 100px;
 }
+
+#timer{
+    font-size: 90px;
+}
