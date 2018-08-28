@@ -1,0 +1,20 @@
+.full-question{
+    margin-bottom: 3em;
+    text-align: left;
+}
+
+.question-text{
+    margin-bottom: 1em;
+}
+
+.radio-row{
+    text-align: center;
+}
+
+label{
+    margin-right: 25px;
+}
+
+input{
+    margin-right: 5px;
+}
